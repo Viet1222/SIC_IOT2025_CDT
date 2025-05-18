@@ -5,5 +5,4 @@ NHÓM 3:
 - Hứa Trung Hiếu
 - Võ Trần Quốc Việt
 - Nguyễn Đặng Minh Quân
-- Nguyễn Phúc Huy
 - Vũ Thượng Nguyên
